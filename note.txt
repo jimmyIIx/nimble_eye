@@ -1,0 +1,6 @@
+1. Création du projet et mise en place de l'architecture initiale.
+
+2. Création du dépôt GitHub, initialisation Git et premier push.
+
+3. Initialisation du backend avec NestJS
+nest new backend --skip-git (npm -> CJS -> Jest)
